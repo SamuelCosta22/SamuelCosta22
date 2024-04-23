@@ -22,3 +22,13 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />          
 </div>
+
+<br>
+
+##Contact me in the following ways: <br>
+<div>
+ Linkedln
+ Instagram
+ Gmail
+ My Portfolio
+</div>
