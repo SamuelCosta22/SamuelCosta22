@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Costa</h1>
 <h3 align="center">A programmer passionate about learning new tools and languages</h3>
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
+<img align="right" alt="Coding" width="150" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 - 🌱 I’m currently learning Javascript (ReactJS and Typescript), TailWindCSS and Python (DJango)...
 
