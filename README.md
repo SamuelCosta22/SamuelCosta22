@@ -14,8 +14,8 @@
 
  <div>
    <a href="https://github.com/SamuelCosta22">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCosta22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCosta22&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCosta22&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCosta22&layout=compact&langs_count=6&theme=dracula&hide_border=false"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
