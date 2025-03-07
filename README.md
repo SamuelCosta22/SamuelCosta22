@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Costa</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F31FE&center=true&vCenter=true&random=false&width=1000&lines=A+programmer+passionate+about+learning+new+tools+and+languages!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9272BC&center=true&vCenter=true&random=false&width=1000&lines=A+programmer+passionate+about+learning+new+tools+and+languages!" alt="Typing SVG">
   </a>
 </div>
 <img align="right" alt="Coding" width="150" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
@@ -16,10 +16,11 @@
   
 - :man_student: Electrotechnical at CEFET-MG
 
- <div>
+ <div align="center">
    <a href="https://github.com/SamuelCosta22">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCosta22&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCosta22&layout=compact&langs_count=6&theme=dracula&hide_border=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCosta22&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCosta22&theme=tokyonight&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCosta22&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
