@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Costa</h1>
-<h3 align="center">A programmer passionate about learning new tools and languages</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F31FE&center=true&vCenter=true&random=false&width=1000&lines=A+programmer+passionate+about+learning+new+tools+and+languages!" alt="Typing SVG">
+  </a>
+</div>
 <img align="right" alt="Coding" width="150" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 - 🌱 I’m currently learning Javascript (ReactJS and Typescript), TailWindCSS and Python (DJango)...
