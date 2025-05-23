@@ -20,6 +20,8 @@
   
 - :man_student: Electrotechnical at CEFET-MG
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 #
 <h3 align="center">My Stats</h3>
  <div align="center">
