@@ -6,7 +6,7 @@
 </div>
 <img align="right" alt="Coding" width="150" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
-- 🌱 I’m currently learning Javascript (ReactJS and Typescript)
+- 🌱 I’m currently improving my Backend Skills (NestJS, SOLID, Hexagonal Architecture)
 
 - 🎯 My new ambition is the NextJS framework
 
@@ -16,7 +16,7 @@
   
 - 💻 I've worked with C++, Python and Javascript frameworks
 
-- :books: I'm studying at UNIFEI in Control and Automation Engineering
+- :books: Control and Automation Engineer at UNIFEI
   
 - :man_student: Electrotechnical at CEFET-MG
 
